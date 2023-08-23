@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+    table{
+      width: 100%;
+      margin-bottom: 50px;
+    }
+    td{
+      height: 20px;
+    }
+    .center{text-align: center;}
+    .right{text-align: right;}
+    #t31{
+      background-color: green;
+    }
+    #t33{
+      background-color: blue;
+    }
+    #t-image{
+      background-image: url(https://www2.d125.org/applied_arts/teched/courses/WEB/portfolios/2013_FallP3/Luthra%20Portfolio/images-1.jpeg);
+      background-div: contain;
+      height: 200px;
+      background-repeat:no-repeat;
+    }
+    #t34,#t35{
+      width: 33%;
+    }
